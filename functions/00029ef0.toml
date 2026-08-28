@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509839Z
+addr = 0x29ef0
+size = 0x922
+name = "CDemoPlayer_InternalReadPacket"
+
+[header]
+name = "CDemoPlayer_InternalReadPacket"
+addr = 0x29ef0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509910Z
+addr = 0x74060
+size = 0xe
+name = "CEngineServer_SetFrameTimeAmnesty"
+
+[header]
+name = "CEngineServer_SetFrameTimeAmnesty"
+addr = 0x74060
+
+[header.args]

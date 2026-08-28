@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510161Z
+addr = 0xc96f0
+size = 0xa3
+name = "CServerSideClientBase_GetPlayerInfo"
+
+[header]
+name = "CServerSideClientBase_GetPlayerInfo"
+addr = 0xc96f0
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-28T12:19:19.504160Z
+addr = 0xaaf10
+size = 0x3fa
+name = "CNetworkGameServerBase_CheckTimeouts"
+type = "void"
+
+[header]
+name = "CNetworkGameServerBase_CheckTimeouts"
+addr = 0xaaf10
+type = "void"
+
+[header.args]

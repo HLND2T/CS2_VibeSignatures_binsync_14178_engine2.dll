@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510282Z
+addr = 0x1d3aa0
+size = 0x396
+name = "CNetworkClientService_PrintConnectionStatus"
+
+[header]
+name = "CNetworkClientService_PrintConnectionStatus"
+addr = 0x1d3aa0
+
+[header.args]

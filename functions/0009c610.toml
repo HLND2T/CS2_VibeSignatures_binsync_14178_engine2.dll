@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509965Z
+addr = 0x9c610
+size = 0x121
+name = "CNetworkGameServer_RemoveClientFromGame"
+
+[header]
+name = "CNetworkGameServer_RemoveClientFromGame"
+addr = 0x9c610
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510454Z
+addr = 0x23b290
+size = 0x214
+name = "CRenderingWorldSession_GetEntityLumpForTemplate"
+
+[header]
+name = "CRenderingWorldSession_GetEntityLumpForTemplate"
+addr = 0x23b290
+
+[header.args]

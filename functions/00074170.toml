@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509916Z
+addr = 0x74170
+size = 0x5d
+name = "CEngineServer_DumpNetStats"
+
+[header]
+name = "CEngineServer_DumpNetStats"
+addr = 0x74170
+
+[header.args]

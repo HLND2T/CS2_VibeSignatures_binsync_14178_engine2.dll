@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510193Z
+addr = 0x128280
+size = 0xa87
+name = "CHLTVDemoRecorder_WriteFrameImmediate"
+
+[header]
+name = "CHLTVDemoRecorder_WriteFrameImmediate"
+addr = 0x128280
+
+[header.args]

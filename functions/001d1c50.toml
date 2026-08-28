@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510246Z
+addr = 0x1d1c50
+size = 0x176
+name = "CNetworkClientService_AllocateRemoteConnectionClient"
+
+[header]
+name = "CNetworkClientService_AllocateRemoteConnectionClient"
+addr = 0x1d1c50
+
+[header.args]

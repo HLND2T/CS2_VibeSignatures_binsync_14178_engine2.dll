@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509992Z
+addr = 0x9ef80
+size = 0x5
+name = "CEngineServer_IsDedicatedServer"
+
+[header]
+name = "CEngineServer_IsDedicatedServer"
+addr = 0x9ef80
+
+[header.args]

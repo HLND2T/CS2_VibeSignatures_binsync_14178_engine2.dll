@@ -1,0 +1,12 @@
+last_change = 2026-08-28T12:19:19.421991Z
+addr = 0xa4520
+size = 0x36b
+name = "CNetworkGameServerBase_SendPeerList"
+type = "void"
+
+[header]
+name = "CNetworkGameServerBase_SendPeerList"
+addr = 0xa4520
+type = "void"
+
+[header.args]

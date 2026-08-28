@@ -1,0 +1,12 @@
+last_change = 2026-08-28T12:19:16.510395Z
+addr = 0x21bb60
+size = 0x223
+name = "CLoopTypeClientSimple_ActivateEngineServices"
+type = "long long"
+
+[header]
+name = "CLoopTypeClientSimple_ActivateEngineServices"
+addr = 0x21bb60
+type = "long long"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:20.751564Z
+addr = 0x20ebe0
+size = 0xec
+name = "CEngineServiceMgr_RegisterEngineService"
+
+[header]
+name = "CEngineServiceMgr_RegisterEngineService"
+addr = 0x20ebe0
+
+[header.args]

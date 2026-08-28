@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510251Z
+addr = 0x1d1ea0
+size = 0x187
+name = "CNetworkClientService_OnClientAdvanceTick"
+
+[header]
+name = "CNetworkClientService_OnClientAdvanceTick"
+addr = 0x1d1ea0
+
+[header.args]

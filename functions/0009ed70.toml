@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509985Z
+addr = 0x9ed70
+size = 0x8
+name = "CNetworkGameServerBase_GetPlayerNetworkIDString"
+
+[header]
+name = "CNetworkGameServerBase_GetPlayerNetworkIDString"
+addr = 0x9ed70
+
+[header.args]

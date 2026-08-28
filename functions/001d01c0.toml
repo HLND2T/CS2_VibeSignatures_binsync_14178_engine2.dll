@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:20.224428Z
+addr = 0x1d01c0
+size = 0xd84
+name = "CNetworkClientService_RegisterEventMapInternal"
+
+[header]
+name = "CNetworkClientService_RegisterEventMapInternal"
+addr = 0x1d01c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509945Z
+addr = 0x80f20
+size = 0x1b0
+name = "CNetworkGameClientBase_ProcessSetConVar"
+
+[header]
+name = "CNetworkGameClientBase_ProcessSetConVar"
+addr = 0x80f20
+
+[header.args]

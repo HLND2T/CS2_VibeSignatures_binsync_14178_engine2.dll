@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:19.677353Z
+addr = 0xb3550
+size = 0x291
+name = "CNetworkGameServerBase_BroadcastEntityVoice"
+
+[header]
+name = "CNetworkGameServerBase_BroadcastEntityVoice"
+addr = 0xb3550
+
+[header.args]

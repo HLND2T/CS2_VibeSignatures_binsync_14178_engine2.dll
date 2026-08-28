@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510427Z
+addr = 0x2202d0
+size = 0xe
+name = "CLoopTypeClientServerService_HandleInputEvent"
+
+[header]
+name = "CLoopTypeClientServerService_HandleInputEvent"
+addr = 0x2202d0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510173Z
+addr = 0xe1360
+size = 0x22e
+name = "CLog_Print"
+
+[header]
+name = "CLog_Print"
+addr = 0xe1360
+
+[header.args]

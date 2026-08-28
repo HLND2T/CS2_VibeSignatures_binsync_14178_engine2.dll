@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509926Z
+addr = 0x74a20
+size = 0x11
+name = "CEngineClient_FindOrCreateWorldSession"
+
+[header]
+name = "CEngineClient_FindOrCreateWorldSession"
+addr = 0x74a20
+
+[header.args]

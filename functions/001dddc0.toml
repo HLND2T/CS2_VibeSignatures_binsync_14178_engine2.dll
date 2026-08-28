@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510321Z
+addr = 0x1dddc0
+size = 0x160
+name = "CNetworkServerService_AddServerPrerequisites"
+
+[header]
+name = "CNetworkServerService_AddServerPrerequisites"
+addr = 0x1dddc0
+
+[header.args]

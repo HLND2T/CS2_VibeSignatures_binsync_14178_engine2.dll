@@ -1,0 +1,12 @@
+last_change = 2026-08-28T12:19:19.788044Z
+addr = 0xbb980
+size = 0x227
+name = "CServerSideClient_ActivatePlayer"
+type = "void"
+
+[header]
+name = "CServerSideClient_ActivatePlayer"
+addr = 0xbb980
+type = "void"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510008Z
+addr = 0x9f6a0
+size = 0x1c
+name = "CEngineServer_ServerCommand"
+
+[header]
+name = "CEngineServer_ServerCommand"
+addr = 0x9f6a0
+
+[header.args]

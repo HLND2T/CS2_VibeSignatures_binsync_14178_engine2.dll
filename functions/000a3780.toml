@@ -1,0 +1,12 @@
+last_change = 2026-08-28T12:19:19.412872Z
+addr = 0xa3780
+size = 0xd99
+name = "CNetworkGameServerBase_ConnectClient"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_ConnectClient"
+addr = 0xa3780
+type = "long long"
+
+[header.args]

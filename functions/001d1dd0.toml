@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510248Z
+addr = 0x1d1dd0
+size = 0xc7
+name = "CNetworkClientService_AddClientPrerequisites"
+
+[header]
+name = "CNetworkClientService_AddClientPrerequisites"
+addr = 0x1d1dd0
+
+[header.args]

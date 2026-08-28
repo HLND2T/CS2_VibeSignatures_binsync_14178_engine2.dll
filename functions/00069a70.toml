@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509896Z
+addr = 0x69a70
+size = 0x95
+name = "CNetworkGameClient_OnReceivedUncompressedPacket"
+
+[header]
+name = "CNetworkGameClient_OnReceivedUncompressedPacket"
+addr = 0x69a70
+
+[header.args]

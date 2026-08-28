@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510384Z
+addr = 0x211a50
+size = 0x173
+name = "CEngineServiceMgr_PrintStatus"
+
+[header]
+name = "CEngineServiceMgr_PrintStatus"
+addr = 0x211a50
+
+[header.args]

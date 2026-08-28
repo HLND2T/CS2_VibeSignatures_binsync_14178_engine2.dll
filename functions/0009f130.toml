@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509994Z
+addr = 0x9f130
+size = 0x63
+name = "CEngineServer_GetPlayerNetworkIDString"
+
+[header]
+name = "CEngineServer_GetPlayerNetworkIDString"
+addr = 0x9f130
+
+[header.args]

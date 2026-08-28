@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510310Z
+addr = 0x1d5430
+size = 0x5f
+name = "CNetworkClientService_FinishChangeLevel"
+
+[header]
+name = "CNetworkClientService_FinishChangeLevel"
+addr = 0x1d5430
+
+[header.args]

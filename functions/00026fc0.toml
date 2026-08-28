@@ -1,0 +1,12 @@
+last_change = 2026-08-28T12:19:18.662730Z
+addr = 0x26fc0
+size = 0x22d
+name = "CDemoRecorder_ParseMessage"
+type = "char"
+
+[header]
+name = "CDemoRecorder_ParseMessage"
+addr = 0x26fc0
+type = "char"
+
+[header.args]

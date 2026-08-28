@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:19.586570Z
+addr = 0xae600
+size = 0x3e5
+name = "CNetworkGameServerBase_BroadcastMessage"
+
+[header]
+name = "CNetworkGameServerBase_BroadcastMessage"
+addr = 0xae600
+
+[header.args]

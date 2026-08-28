@@ -1,0 +1,12 @@
+last_change = 2026-08-28T12:19:19.714651Z
+addr = 0xb3bc0
+size = 0x36c
+name = "CNetworkGameServerBase_ServerSimulate"
+type = "void"
+
+[header]
+name = "CNetworkGameServerBase_ServerSimulate"
+addr = 0xb3bc0
+type = "void"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509949Z
+addr = 0x88c50
+size = 0x249
+name = "CNetworkGameClientBase_StartChangeLevel"
+
+[header]
+name = "CNetworkGameClientBase_StartChangeLevel"
+addr = 0x88c50
+
+[header.args]

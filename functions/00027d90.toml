@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509833Z
+addr = 0x27d90
+size = 0x473
+name = "CDemoPlayer_StopPlayback"
+
+[header]
+name = "CDemoPlayer_StopPlayback"
+addr = 0x27d90
+
+[header.args]

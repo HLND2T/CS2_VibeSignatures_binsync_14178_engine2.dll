@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510004Z
+addr = 0x9f580
+size = 0xc
+name = "CEngineServer_LogPrint"
+
+[header]
+name = "CEngineServer_LogPrint"
+addr = 0x9f580
+
+[header.args]

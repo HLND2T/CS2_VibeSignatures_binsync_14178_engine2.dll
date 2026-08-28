@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510053Z
+addr = 0xa6fc0
+size = 0x307
+name = "CNetworkGameServerBase_PrintSpawnGroupStatus"
+
+[header]
+name = "CNetworkGameServerBase_PrintSpawnGroupStatus"
+addr = 0xa6fc0
+
+[header.args]

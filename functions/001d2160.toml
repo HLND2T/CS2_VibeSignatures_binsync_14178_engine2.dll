@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510257Z
+addr = 0x1d2160
+size = 0x1b3
+name = "CNetworkClientService_OnClientProcessNetworking"
+
+[header]
+name = "CNetworkClientService_OnClientProcessNetworking"
+addr = 0x1d2160
+
+[header.args]

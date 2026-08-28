@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:18.809180Z
+addr = 0x5f740
+size = 0x7e8
+name = "CNetworkGameClient_SetSignonState"
+
+[header]
+name = "CNetworkGameClient_SetSignonState"
+addr = 0x5f740
+
+[header.args]

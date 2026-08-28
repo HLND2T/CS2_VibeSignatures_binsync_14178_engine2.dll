@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509999Z
+addr = 0x9f320
+size = 0x57
+name = "CEngineServer_GetClientConVarValue"
+
+[header]
+name = "CEngineServer_GetClientConVarValue"
+addr = 0x9f320
+
+[header.args]

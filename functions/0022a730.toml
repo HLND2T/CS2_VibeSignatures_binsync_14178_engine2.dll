@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510444Z
+addr = 0x22a730
+size = 0x6e6
+name = "CLoopTypeClientServer_OutputListeners"
+
+[header]
+name = "CLoopTypeClientServer_OutputListeners"
+addr = 0x22a730
+
+[header.args]

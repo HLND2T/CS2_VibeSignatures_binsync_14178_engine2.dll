@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510074Z
+addr = 0xad9a0
+size = 0x24d
+name = "CNetworkGameServerBase_CreateFakeClient"
+
+[header]
+name = "CNetworkGameServerBase_CreateFakeClient"
+addr = 0xad9a0
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-28T12:19:20.959430Z
+addr = 0x224450
+size = 0x499
+name = "CLoopTypeClientServer_AdvanceTime"
+type = "long long"
+
+[header]
+name = "CLoopTypeClientServer_AdvanceTime"
+addr = 0x224450
+type = "long long"
+
+[header.args]

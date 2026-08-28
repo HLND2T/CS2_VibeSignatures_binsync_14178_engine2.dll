@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510006Z
+addr = 0x9f590
+size = 0x8
+name = "CEngineServer_IsLogEnabled"
+
+[header]
+name = "CEngineServer_IsLogEnabled"
+addr = 0x9f590
+
+[header.args]

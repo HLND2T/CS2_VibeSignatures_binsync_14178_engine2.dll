@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510089Z
+addr = 0xb2220
+size = 0x9
+name = "CNetworkGameServerBase_GetTimescale"
+
+[header]
+name = "CNetworkGameServerBase_GetTimescale"
+addr = 0xb2220
+
+[header.args]

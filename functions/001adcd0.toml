@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510213Z
+addr = 0x1adcd0
+size = 0xf0
+name = "CGameResourceService_AppendToGameResourceManifest"
+
+[header]
+name = "CGameResourceService_AppendToGameResourceManifest"
+addr = 0x1adcd0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509879Z
+addr = 0x60450
+size = 0x1a9
+name = "CNetworkGameClient_Clear"
+
+[header]
+name = "CNetworkGameClient_Clear"
+addr = 0x60450
+
+[header.args]

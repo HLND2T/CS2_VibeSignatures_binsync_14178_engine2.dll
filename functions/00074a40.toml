@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.509928Z
+addr = 0x74a40
+size = 0x27
+name = "CEngineClient_GetEntityLumpForTemplate"
+
+[header]
+name = "CEngineClient_GetEntityLumpForTemplate"
+addr = 0x74a40
+
+[header.args]

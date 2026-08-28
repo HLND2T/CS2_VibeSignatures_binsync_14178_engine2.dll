@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:19:16.510273Z
+addr = 0x1d2a60
+size = 0x8ea
+name = "CNetworkClientService_Init"
+
+[header]
+name = "CNetworkClientService_Init"
+addr = 0x1d2a60
+
+[header.args]
